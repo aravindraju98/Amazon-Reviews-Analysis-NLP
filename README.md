@@ -64,6 +64,17 @@ Most mentioned features:
 - Performance terms:
   - "Fast": 0.8%
   - "Slow": 0.5%
+ 
+![sentiment_distribution](https://github.com/user-attachments/assets/bc77582f-14dd-47c1-b866-162c3a31de61)
+
+![image](https://github.com/user-attachments/assets/178c18a7-9dc1-4ab5-bc55-9562ebe42809)
+
+![topic_analysis](https://github.com/user-attachments/assets/949936fa-894f-4a24-be19-e3919f888f20)
+
+
+
+![Business Analysis](https://github.com/user-attachments/assets/91b07c62-fa6e-4b0f-aca7-0c6f4fa4f788)
+
 
 ## Key Recommendations
 1. Technical Performance

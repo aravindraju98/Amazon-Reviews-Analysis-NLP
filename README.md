@@ -34,19 +34,7 @@ The analysis uses the Amazon Software Reviews dataset from:
   - scikit-learn: Machine learning (LDA topic modeling)
   - wordcloud: Word cloud visualization
 
-## Project Structure
-```
-kindle-reviews/
-│
-├── data/
-│   └── Software.json.gz
-│
-├── notebooks/
-│   └── clean-analysis-notebook.ipynb
-│
-├── README.md
-└── requirements.txt
-```
+
 
 ## Key Insights
 

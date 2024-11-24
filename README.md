@@ -71,8 +71,6 @@ Most mentioned features:
 
 ![topic_analysis](https://github.com/user-attachments/assets/949936fa-894f-4a24-be19-e3919f888f20)
 
-
-
 ![Business Analysis](https://github.com/user-attachments/assets/91b07c62-fa6e-4b0f-aca7-0c6f4fa4f788)
 
 
@@ -88,13 +86,6 @@ Most mentioned features:
 3. Feature Enhancement
    - Focus on most requested features
    - Improve sync functionality
-
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Contact
-Your Name - Aravind Raju
 
 ## Acknowledgments
 - Dataset provided by [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/) at UC San Diego
